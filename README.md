@@ -1,16 +1,18 @@
 # vsruby README
 
-## Working with Markdown
+## Perfect extensions to work with on a Ruby project
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+These are the extensions that I need to work with in order to have a good developer experience. It's what we're using on [Avo](https://avohq.io).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+You should install a few dependencies.
 
+```bash
+gem install solargraph
+npm install -g eslint
+```
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Avo - Ruby on Rails Admin framework](http://avohq.io/rails-admin)
+* [Avo repo](https://github.com/avo-hq/avo)
 
 **Enjoy!**

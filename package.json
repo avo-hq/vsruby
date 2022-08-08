@@ -2,7 +2,22 @@
   "name": "vsruby",
   "displayName": "vsruby",
   "description": "Extension pack for Ruby and Rails development.",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "repository": "https://github.com/avo-hq/vsruby",
+  "publisher": "adrianthedev",
+  "icon": "VSRuby.png",
+  "galleryBanner": {
+    "color": "#0886DE"
+  },
+  "languages": [
+    {
+      "id": "ruby",
+      "extensions": [
+        ".rb",
+        ".erb"
+      ]
+    }
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
