@@ -1,0 +1,21 @@
+{
+  "name": "vsruby",
+  "displayName": "vsruby",
+  "description": "Extension pack for Ruby and Rails development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "rebornix.ruby",
+    "groksrc.ruby",
+    "castwide.solargraph",
+    "vortizhe.simple-ruby-erb",
+    "wingrunr21.vscode-ruby",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint"
+  ]
+}
